@@ -4,7 +4,7 @@
 This challenge was to create a small calendar that would allow the user to schedule events for every hour of the day and to be able to save those events. Aswell as letting the user know the time, and the time that the events are taking place. For example, gray is in the past, red means the present, and green is upcoming events in the future.
 
 ## Live Site
-
+https://tianpnce.github.io/work-scheduler/
 
 ## User Story
 AS AN employee with a busy schedule
@@ -25,6 +25,9 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+## Notes
+I did have trouble trying to get the colors(past,present,future) to work and change to the hour it is, however I did learn more on how to save data to local storage which I am proud of. This unit has been the most difficult for me but it is getting easier as I go on. I was also able to display the current time so that is great as well.
 
 ## Screenshot
 ![1ECB22E3-E896-4E9A-9165-9429E79DCF0A](https://user-images.githubusercontent.com/122128252/230546884-4997a3e5-b6c0-46b7-a49f-f41918c030ab.jpeg)
