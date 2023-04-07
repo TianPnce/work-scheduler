@@ -1,6 +1,8 @@
 // Wrap all code that interacts with the DOM in a call to jQuery to ensure that
 // the code isn't run until the browser has finished rendering all the elements
 // in the html.
+
+// Date for header, displays day of the wekk, month, day, and year.
 var today = dayjs();
 $('#currentDay').text(today.format('dddd, MMMM D YYYY'));
 
